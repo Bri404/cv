@@ -1,0 +1,11 @@
+.fit-picture{
+    width: 200px;
+}
+
+table:skills, td{
+    border: 1px solid black;
+}
+table:workExperience, td{
+    border: 1px solid black;
+}
+    
